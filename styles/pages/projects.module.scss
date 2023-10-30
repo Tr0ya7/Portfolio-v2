@@ -8,6 +8,8 @@
     }
 
     div {
-        @include displayWrap($justify-content);
+        display: $display;
+        flex-wrap: $flex-wrap;
+        justify-content: $justify-content;
     }
 }
