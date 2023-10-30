@@ -1,5 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Handjet:wght@400;500&family=Mukta&family=Poppins&family=Press+Start+2P&display=swap');
 @import '../preDefinitions.scss';
+
+@font-face {
+    font-family: 'Handjet';
+    src: url('../../fonts/Handjet-VariableFont_ELGR\,ELSH\,wght.ttf');
+}
 
 .contactMe {
     display: $display;
@@ -18,7 +22,7 @@
         }
 
         .stack {
-            font-family: 'Handjet', cursive;
+            font-family: 'Handjet';
             font-size: 32px;
             margin: 0 0 0 4px;
             display: $display;
