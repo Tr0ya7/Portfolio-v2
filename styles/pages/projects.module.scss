@@ -1,0 +1,13 @@
+@import '../preDefinitions.scss';
+
+.projects {
+    text-align: $text-align;
+
+    h1 {
+        @include title;
+    }
+
+    div {
+        @include displayWrap($justify-content);
+    }
+}

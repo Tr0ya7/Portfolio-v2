@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Handjet&family=Mukta&display=swap');
+@import '../preDefinitions.scss';
+
+.header {
+    position: fixed;
+    display: $display;
+    padding: 1.5em;
+    width: 100%;
+    justify-content: center;
+    background: #ffffff30;
+    box-shadow: 3px 3px 7px rgba(0, 0, 0, .5);
+    backdrop-filter: blur(5px);
+    z-index: 1;
+}

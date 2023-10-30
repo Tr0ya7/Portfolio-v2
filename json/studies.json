@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "src": "/images/studies-shields/redux.png",
+        "title": "REDUX",
+        "className": "redux",
+        "description": "lorem ipsum dolor"
+    },
+    {
+        "id": 2,
+        "src": "/images/studies-shields/tailwind.png",
+        "title": "TAILWIND",
+        "className": "tailwind",
+        "description": "lorem ipsum dolor"
+    },
+    {
+        "id": 3,
+        "src": "/images/studies-shields/typescript.png",
+        "title": "TYPESCRIPT",
+        "className": "typescript",
+        "description": "lorem ipsum dolor"
+    },
+    {
+        "id": 4,
+        "src": "/images/studies-shields/wordpress.png",
+        "title": "WORDPRESS",
+        "className": "wordpress",
+        "description": "lorem ipsum dolor"
+    },
+    {
+        "id": 5,
+        "src": "/images/studies-shields/performance.png",
+        "title": "AUTOMAÇÃO E PERFORMANCE",
+        "className": "performance",
+        "description": "lorem ipsum dolor"
+    }
+]

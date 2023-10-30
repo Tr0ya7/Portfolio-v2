@@ -1,0 +1,13 @@
+.headerComponents {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-evenly;
+    font-family: 'Mukta', sans-serif;
+
+    li {
+        a {
+            text-decoration: none;
+        }
+    }
+}

@@ -1,0 +1,32 @@
+@import '../preDefinitions.scss';
+
+.card {
+    margin-top: $padding;
+    width: 45%;
+    height: min-content;
+
+    ul {
+        padding: 45px;
+        background-color: $background-color;
+        display: $displayBlock;
+        border-radius: $border-radius;
+        font-size: 24px;
+        text-align: $text-align-left;
+        margin: 10px 0;
+
+        .li {
+            margin-top: 15px;
+        }
+
+        li {
+            font-size: 13px;
+            text-align: $text-align-left;
+            margin-top: 5px;
+        }
+        
+        .certificate {
+            text-align: center;
+            margin-top: 25px;
+        }
+    }
+}

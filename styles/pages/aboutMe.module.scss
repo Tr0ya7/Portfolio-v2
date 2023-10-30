@@ -1,0 +1,28 @@
+@import '../preDefinitions.scss';
+
+.aboutMe {
+    display: $display;
+    justify-content: center;
+    align-items: center;
+    gap: 10em;
+
+    div {
+        ul {
+            .title {
+                text-align: center;
+                font-size: xx-large;
+                font-weight: normal;
+                margin: $margin10px;
+            }
+
+            .text {
+                margin-bottom: $margin10px;
+            }
+
+            li {
+                font-size: large;
+                line-height: 30px;
+            }
+        }
+    }
+}

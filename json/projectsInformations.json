@@ -1,0 +1,32 @@
+[
+    {
+        "image": "/images/projectsImages/telaAbastecimento.png",
+        "title": "Tela Abastecimento",
+        "informations": "lorem ipsum dolor sit amet consectetur adipiscing elit",
+        "link": "https://github.com/Tr0ya7/Simbolus-TelaAbastecimento"
+    },
+    {
+        "image": "/images/projectsImages/portfólioV1.png",
+        "title": "Portfólio Versão 1",
+        "informations": "lorem ipsum dolor sit amet consectetur adipiscing elit",
+        "link": "https://github.com/Tr0ya7/Portfolio_v1"
+    },
+    {
+        "image": "/images/projectsImages/organo.png",
+        "title": "Organo",
+        "informations": "lorem ipsum dolor sit amet consectetur adipiscing elit",
+        "link": "https://github.com/Tr0ya7/Organo"
+    },
+    {
+        "image": "/images/projectsImages/spaceApp.png",
+        "title": "SpaceApp",
+        "informations": "lorem ipsum dolor sit amet consectetur adipiscing elit",
+        "link": "https://github.com/Tr0ya7/spaceApp"
+    },
+    {
+        "image": "/images/projectsImages/cinetag.png",
+        "title": "Cinetag",
+        "informations": "lorem ipsum dolor sit amet consectetur adipiscing elit",
+        "link": "https://github.com/Tr0ya7/Cinetag"
+    }
+]

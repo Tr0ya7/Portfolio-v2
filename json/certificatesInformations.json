@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "Análise e Desenvolvimento de Sistemas",
+        "institution": "Etec Joaquim Ferreira do Amaral",
+        "duration": "3 anos",
+        "year": "2022"
+    },
+    {
+        "id": 2,
+        "title": "JavaScript: consumindo e tratando dados de uma API",
+        "institution": "Alura",
+        "duration": "6 horas",
+        "year": "2023"
+    },
+    {
+        "id": 3,
+        "title": "React: como os componentes funcionam",
+        "institution": "Alura",
+        "duration": "8 horas",
+        "year": "2023"
+    },
+    {
+        "id": 4,
+        "title": "React: desenvolvendo com JavaScript",
+        "institution": "Alura",
+        "duration": "14 horas",
+        "year": "2023"
+    },
+    {
+        "id": 5,
+        "title": "React: desenvolvendo em React Router com JavaScript",
+        "institution": "Alura",
+        "duration": "8 horas",
+        "year": "2023"
+    },
+    {
+        "id": 6,
+        "title": "React: estilize componentes com Styeled Components e manipule arquivos estáticos",
+        "institution": "Alura",
+        "duration": "10 horas",
+        "year": "2023"
+    },
+    {
+        "id": 7,
+        "title": "React: gerencimento de estados globais com ContextAPI",
+        "institution": "Alura",
+        "duration": "10 horas",
+        "year": "2023"
+    },
+    {
+        "id": 7,
+        "title": "React: praticando React com Js",
+        "institution": "Alura",
+        "duration": "8 horas",
+        "year": "2023"
+    }
+]

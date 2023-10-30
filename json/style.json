@@ -1,0 +1,27 @@
+[
+    {
+        "minHeight": "45vh",
+        "background": "linear-gradient(120deg, #6591b4, #032038, #08263f)",
+        "padding": "17em 1em"
+    },
+    {
+        "minHeight": "45vh",
+        "backgroundColor": "#08263f",
+        "padding": "13em"
+    },
+    {
+        "minHeight": "45vh",
+        "backgroundColor": "#032038",
+        "padding": "140px 120px 200px 120px"
+    },
+    {
+        "minHeight": "45vh",
+        "backgroundColor": "#08263f",
+        "padding": "3em 10em 9em"
+    },
+    {
+        "minHeight": "45vh",
+        "backgroundColor": "#032038",
+        "padding": "3em 10em 9em"
+    }
+]

@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Saira&display=swap');
+
+$display: flex;
+$margin: 0;
+$pressStart2P: 'Press Start 2P', cursive;
+$padding: 48px;
+$text-align-left: left;
+$saira: 'Saira', sans-serif;
+$cursor: pointer;
+$text-align: center;
+$box-shadow: 5px 5px 10px rgba(0, 0, 0, .5);
+$border: 1px solid white;
+$border-radius: 10px;
+$margin10px: 10px;
+$flex-wrap: wrap;
+$fit-content: fit-content;
+$displayBlock: block;
+$background-color: #02192b;
+$justify-content: space-around;
+
+@mixin title() {
+    font-family: $pressStart2P;
+    font-size: 45px;
+}
+
+@mixin paddingFit() {
+    padding: $padding;
+    background-color: $background-color;
+    width: $fit-content;
+    display: $displayBlock;
+    border-radius: $border-radius;
+}
+
+@mixin displayWrap($content) {
+    display: $display;
+    flex-wrap: $flex-wrap;
+    justify-content: $content;
+}
+
+@keyframes blink {
+    0% { 
+        opacity: 1; 
+    }
+    
+    50% { 
+        opacity: 0; 
+    }
+    
+    100% { 
+        opacity: 1; 
+    }
+}
+
+@keyframes moviment {
+    0% {
+        margin-left: 0;
+    }
+
+    50% {
+        margin-left: 4.2em;
+    }
+
+    100% {
+        margin-left: 8.4em;
+    }
+}
+
+@keyframes floating {
+    0%, 100% {
+        transform: translate(0, -15px);
+    }
+    50% {
+        transform: translate(0, 20px);
+    }
+}

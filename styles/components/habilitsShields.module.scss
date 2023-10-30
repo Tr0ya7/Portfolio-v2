@@ -1,0 +1,20 @@
+@import '../preDefinitions.scss';
+
+.habilitsShields {
+    img {
+        border-radius: 15px;
+        cursor: pointer;
+        background-color: grey;
+        margin-right: 1rem;
+        filter: opacity(.5);
+        transition: .3s;
+        box-shadow: $box-shadow;
+        
+        &:hover {
+            background-color: lightgrey;
+            filter: unset;
+            width: 7.5em;
+            height: 7.5em;
+        }
+    }
+}
