@@ -1,10 +1,15 @@
 @import '../preDefinitions.scss';
 @import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
 
+@font-face {
+    font-family: 'Mukta';
+    src: url('../../fonts/Mukta-Regular.ttf');
+}
+
 .footer {
     background-color: white;
     text-align: center;
-    font-family: 'Mukta', sans-serif;
+    font-family: 'Mukta';
 
     div {
         color: black;

@@ -1,12 +1,19 @@
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Saira&display=swap');
+@font-face {
+    font-family: 'Press Start 2P';
+    src: url('../fonts/PressStart2P-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Saira';
+    src: url('../fonts/static/Saira-Regular.ttf');
+}
 
 $display: flex;
 $margin: 0;
-$pressStart2P: 'Press Start 2P', cursive;
+$pressStart2P: 'Press Start 2P';
 $padding: 48px;
 $text-align-left: left;
-$saira: 'Saira', sans-serif;
+$saira: 'Saira';
 $cursor: pointer;
 $text-align: center;
 $box-shadow: 5px 5px 10px rgba(0, 0, 0, .5);
