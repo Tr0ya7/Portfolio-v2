@@ -1,37 +1,30 @@
 [
     {
         "id": 1,
-        "src": "/images/studies-shields/redux.png",
-        "title": "REDUX",
-        "className": "redux",
-        "description": "lorem ipsum dolor"
-    },
-    {
-        "id": 2,
         "src": "/images/studies-shields/tailwind.png",
         "title": "TAILWIND",
         "className": "tailwind",
-        "description": "lorem ipsum dolor"
+        "description": "Tailwind CSS é um framework de estilo para desenvolvimento web que ajuda os desenvolvedores a criar interfaces de usuário de maneira eficiente. Diferente de outros frameworks CSS que definem estilos predefinidos, o Tailwind CSS fornece classes CSS úteis que podem ser aplicadas diretamente ao HTML para estilizar elementos da página."
     },
     {
-        "id": 3,
+        "id": 2,
         "src": "/images/studies-shields/typescript.png",
         "title": "TYPESCRIPT",
         "className": "typescript",
-        "description": "lorem ipsum dolor"
+        "description": "TypeScript é uma linguagem de programação que se baseia no JavaScript. Ela foi desenvolvida para tornar o JavaScript mais previsível e seguro, adicionando tipagem estática ao código."
+    },
+    {
+        "id": 3,
+        "src": "/images/studies-shields/nodeJs.png",
+        "title": "NODE.JS",
+        "className": "nodeJs",
+        "description": "Node.js é um ambiente de tempo de execução (runtime) de JavaScript que permite que o código JavaScript seja executado no lado do servidor, em vez de apenas no navegador. Isso significa que os desenvolvedores podem usar JavaScript tanto no front-end (navegador) quanto no back-end (servidor) de um aplicativo da web."
     },
     {
         "id": 4,
-        "src": "/images/studies-shields/wordpress.png",
-        "title": "WORDPRESS",
-        "className": "wordpress",
-        "description": "lorem ipsum dolor"
-    },
-    {
-        "id": 5,
         "src": "/images/studies-shields/performance.png",
         "title": "AUTOMAÇÃO E PERFORMANCE",
         "className": "performance",
-        "description": "lorem ipsum dolor"
+        "description": "Automação na web se refere ao uso de programas ou scripts para realizar tarefas de forma automática em sites ou aplicativos da web. Isso pode incluir a automação de interações do usuário, como clicar em botões, preencher formulários ou navegar por páginas da web, sem a necessidade de intervenção humana."
     }
 ]

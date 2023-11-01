@@ -12,23 +12,35 @@
     backdrop-filter: blur(5px);
     z-index: 1;
 
-    .hamburguerMenu {
+    div {
         display: none;
     }
 }
 
 @media screen and (max-width: 768px) {
     .header {
+        width: fit-content;
+        margin: 20px;
+        border-radius: 10px;
+        padding: 1em;
+        right: 0;
+        
         ul {
             display: none;
-
-            li {
-                width: $width100;
-            }
         }
 
-        .hamburguerMenu {
-            display: $display;
+        div {
+            display: unset;
+
+            img {
+                cursor: $cursor;
+            }
+
+            div {
+                ul {
+                    fill: white;
+                }
+            }
         }
     }
 }
