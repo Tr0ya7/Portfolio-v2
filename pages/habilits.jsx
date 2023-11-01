@@ -24,21 +24,15 @@ export default function Habilits({ style }) {
 
     return (
         <div className={styles.habilits} id="habilits" style={ style }>
-            <div>
+            <div className={styles.shields}>
                 {informations.map((habilit) => <HabilitsShields
                                                 key={habilit.id}
                                                 className={habilit.className}
                                                 src={habilit.src} 
                                                 habilitOnClick={ 
                                                     () => setSelectedShield([   
-                                                            habilit.title, 
-                                                            habilit.description, 
-                                                            habilit.title1, 
-                                                            habilit.firebird, 
-                                                            habilit.title2, 
-                                                            habilit.mysql, 
-                                                            habilit.title3, 
-                                                            habilit.sqlite
+                                                            habilit.title,
+                                                            habilit.description,
                                                           ])
                                                 }
                                                />)}

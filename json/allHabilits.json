@@ -46,7 +46,7 @@
         "src": "/images/habilits-shields/react.png",
         "title": "REACT",
         "className": "React",
-        "description": "React é uma biblioteca JavaScript de código aberto desenvolvida pelo Facebook para a criação de interfaces de usuário interativas e dinâmicas em aplicações web. Ele permite o desenvolvimento de interfaces reativas, onde as mudanças de estado são automaticamente refletidas no DOM (Document Object Model) sem a necessidade de atualizar toda a página."
+        "description": "React é uma biblioteca de JavaScript amplamente utilizada para criar interfaces de usuário interativas e dinâmicas em aplicações web."
     },
     {
         "id": 8,
@@ -60,34 +60,29 @@
         "src": "/images/habilits-shields/c-sharp.png",
         "title": "C#",
         "className": "cSharp",
-        "description": "C-Sharp é uma linguagem de programação moderna, orientada a objetos e de propósito geral desenvolvida pela Microsoft no ano 2000. Ela faz parte da plataforma .NET e é amplamente utilizada para desenvolver aplicativos e sistemas corporativos. O C# é conhecido por sua segurança, tipagem estática, suporte a programação assíncrona e integração com a plataforma .NET, que oferece uma ampla variedade de bibliotecas e recursos para desenvolvimento de software. É uma escolha popular entre os desenvolvedores que trabalham em ambientes Windows e na plataforma .NET devido à sua eficiência, facilidade de aprendizado e suporte a uma variedade de aplicativos, incluindo desktop, web e jogos."
+        "description": "C# é uma linguagem de programação desenvolvida pela Microsoft. É usada para criar software, como aplicativos de desktop, jogos, aplicativos móveis e muito mais."
     },
     {
         "id": 10,
         "src": "/images/habilits-shields/xamarin.png",
         "title": "XAMARIN",
         "className": "xamarin",
-        "description": "Xamarin é uma plataforma de desenvolvimento de aplicativos móveis que permite criar aplicativos nativos para Android, iOS e Windows usando uma única base de código em C#. Com Xamarin, os desenvolvedores podem compartilhar a maior parte da lógica de negócios e funcionalidades entre as diferentes plataformas, o que reduz o tempo de desenvolvimento e facilita a criação de aplicativos multiplataforma com desempenho e experiência de usuário semelhantes aos aplicativos desenvolvidos em linguagens nativas. A plataforma também oferece o Xamarin.Forms, um framework de interface de usuário que simplifica ainda mais o desenvolvimento compartilhando a interface gráfica entre as plataformas. Xamarin é amplamente utilizado por empresas e desenvolvedores para criar aplicativos móveis eficientes, rápidos e nativos com a vantagem de reutilização de código para diferentes sistemas operacionais."
+        "description": "Xamarin é uma plataforma de desenvolvimento de aplicativos móveis que permite aos desenvolvedores criar aplicativos para dispositivos móveis, como smartphones e tablets, usando a linguagem de programação C#"
     },
     {
         "id": 11,
         "src": "/images/habilits-shields/delphi.png",
         "title": "DELPHI",
         "className": "delphi",
-        "description": "Delphi é uma plataforma de desenvolvimento de software que inclui uma linguagem de programação orientada a objetos, uma IDE visual e uma biblioteca de componentes para criar aplicativos nativos para Windows e multiplataforma (iOS, Android, macOS e Linux). Desenvolvido pela Embarcadero Technologies, o Delphi é conhecido por seu Desenvolvimento Rápido de Aplicativos (RAD), que permite aos desenvolvedores criar aplicativos de forma ágil e produtiva, com ampla utilização em aplicações de negócios, sistemas corporativos e outros projetos que requerem interface gráfica rica e funcionalidades específicas. A linguagem de programação do Delphi é baseada em Pascal e a IDE oferece um conjunto completo de ferramentas para criar e depurar aplicativos. Além disso, a plataforma suporta acesso a bancos de dados e tem uma comunidade ativa de desenvolvedores."
+        "description": "Delphi é uma plataforma de desenvolvimento de software usada por programadores para criar aplicativos de desktop, mobile e web. É conhecida por sua linguagem de programação própria chamada Object Pascal",
+        "description mobile": "Lorem ipsum dolor"
     },
     {
         "id": 12,
         "src": "/images/habilits-shields/dbs.png",
         "title": "DATA BASES",
         "className": "dbs",
-        "description": "Firebird, MySQL e SQLite são sistemas de gerenciamento de banco de dados (SGBDs) que permitem armazenar, manipular e consultar dados em aplicações e sistemas. Cada um deles tem suas próprias características e usos específicos:",
-        "title1": "FIREBIRD",
-        "firebird": "Firebird é um SGBD relacional de código aberto baseado no InterBase.É totalmente gratuito e oferece suporte a diversos sistemas operacionais, incluindo Windows, Linux e macOS.Possui recursos avançados, como suporte a transações ACID (Atomicidade, Consistência, Isolamento e Durabilidade), procedimentos armazenados, gatilhos, chaves estrangeiras e mais.É amplamente utilizado em aplicações empresariais e sistemas críticos devido à sua confiabilidade e desempenho.",
-        "title2": "MYSQL",
-        "mysql": "MySQL é um SGBD relacional de código aberto desenvolvido pela Oracle Corporation.É conhecido por ser rápido, fácil de usar e altamente escalável.Suporta várias plataformas, incluindo Windows, Linux e macOS.É amplamente utilizado em aplicações web e sistemas que requerem alta disponibilidade e desempenho, como sites e aplicativos de comércio eletrônico.",
-        "title3": "SQLITE",
-        "sqlite": "SQLite é um SGBD embutido e de código aberto, o que significa que não requer um servidor de banco de dados separado para funcionar.É uma biblioteca leve e rápida, projetada para ser incorporada diretamente em aplicações.Suporta todas as operações de um SGBD completo, mas é mais adequado para aplicações desktop, dispositivos móveis e projetos de pequeno a médio porte.É amplamente utilizado em aplicativos móveis, navegadores da web e outros projetos que requerem um banco de dados local simples e sem a necessidade de gerenciamento de um servidor de banco de dados."
+        "description": "O MySQL, o SQLite e o Firebird são sistemas de gerenciamento de banco de dados (DBMS) usados para armazenar e organizar informações em aplicativos de software. Eles permitem que os aplicativos acessem, gerenciem e recuperem dados de maneira eficiente."
     },
     {
         "id": 13,
@@ -101,6 +96,6 @@
         "src": "/images/habilits-shields/github.png",
         "title": "GITHUB",
         "className": "github",
-        "description": "GitHub é uma plataforma de hospedagem de código-fonte que utiliza o Git como base. Ela permite que desenvolvedores armazenem seus projetos Git de forma centralizada na nuvem, facilitando o compartilhamento, colaboração e contribuição de código. Além disso, o GitHub oferece ferramentas para revisão de código, controle de problemas (issues), gerenciamento de projetos e integração contínua."
+        "description": "O GitHub é uma plataforma online onde as pessoas podem armazenar, compartilhar e colaborar em projetos de software. É como uma rede social para desenvolvedores de software, onde você pode criar e hospedar seu código-fonte, controlar as alterações feitas nele, colaborar com outras pessoas e acompanhar o progresso do seu projeto."
     }
 ]

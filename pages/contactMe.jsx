@@ -11,9 +11,9 @@ export default function ContactMe({ style }) {
                 <div className={styles.name}>
                     Luiz Henrique
                 </div>
-                <span className={styles.stack}>
+                <div className={styles.stack}>
                     Desenvolvedor Front-End
-                </span>
+                </div>
                 <Contact href="teste">
                     <BiLogoLinkedin />
                 </Contact>

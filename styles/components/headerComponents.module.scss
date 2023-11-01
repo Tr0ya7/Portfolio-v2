@@ -1,9 +1,11 @@
+@import '../preDefinitions.scss';
+
 .headerComponents {
-    display: flex;
-    align-items: center;
+    display: $display;
     width: 100%;
-    justify-content: space-evenly;
     font-family: 'Mukta', sans-serif;
+    justify-content: center;
+    
 
     li {
         a {

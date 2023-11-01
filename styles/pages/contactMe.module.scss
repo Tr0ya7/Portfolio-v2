@@ -9,6 +9,7 @@
     display: $display;
     justify-content: center;
     gap: 9em;
+    align-items: center;
 
     .container {
         font-size: 2em;
@@ -32,8 +33,7 @@
                 animation: blink 1.15s infinite;
                 content: "|";
                 position: absolute;
-                right: 0;
-                width: 28.5%;
+                right: 3.2em;
                 bottom: 3px;
             }
 
@@ -67,5 +67,15 @@
 
     .img {
         animation: floating 7s infinite;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .contactMe {
+        text-align: center;
+
+        img {
+            display: none;
+        }
     }
 }

@@ -11,3 +11,11 @@
         @include title;
     }
 }
+
+@media screen and (max-width: 768px) {
+    .certificates {
+        div {
+            width: 100%;
+        }
+    }
+}

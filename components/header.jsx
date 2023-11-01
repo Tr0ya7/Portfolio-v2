@@ -1,14 +1,10 @@
 import Image from 'next/image'
-import Link from 'next/link'
 import styles from '../styles/components/header.module.scss'
 import HeaderComponents from './headerComponents'
 
 export default function Header() {
     return (
         <div className={styles.header}>
-            <Link href="/">
-                <Image src="/images/logo.png" width={48} height={48} alt="logo" />
-            </Link>
             <HeaderComponents href="#contactMe">
                 Início
             </HeaderComponents>
@@ -26,6 +22,9 @@ export default function Header() {
             </HeaderComponents>
             <HeaderComponents href="https://drive.google.com/file/d/1BEwtUcCSzNoloU237fkN0kk78WxIQY-4/view?usp=drive_link">
                 Currículo
+            </HeaderComponents>
+            <HeaderComponents className={styles.hamburguerMenu} href="#contactMe">
+                <Image src="/images/hamburguer-menu.png" width={24} height={24} alt="hamburguer menu" />
             </HeaderComponents>
         </div>
     )
