@@ -36,11 +36,12 @@
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
     .habilits {
-        display: block;
+        display: flex;
         position: relative;
         text-align: center;
+        justify-content: center;
         
         .shields {
             margin-top: 23em;
@@ -52,6 +53,14 @@
             top: 3em;
             height: 120px;
             margin-left: 30px;
+        }
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .habilits {
+        .shields {
+            min-width: 540px;
         }
     }
 }

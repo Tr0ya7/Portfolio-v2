@@ -18,3 +18,16 @@
         }
     }
 }
+
+@media screen and (max-width: 1240px) {
+    .habilitsShields {
+        img {
+            &::after {
+                background-color: lightgrey;
+                filter: unset;
+                width: 7.5em;
+                height: 7.5em;
+            }
+        }
+    }
+}

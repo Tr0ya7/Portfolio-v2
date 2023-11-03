@@ -15,7 +15,7 @@ export default function Certificates({ style }) {
                                                         institution={item.institution}
                                                         duration={item.duration}
                                                         year={item.year}
-                                                        href="teste"
+                                                        href={item.link}
                                                         />)}
             </div>
         </div>

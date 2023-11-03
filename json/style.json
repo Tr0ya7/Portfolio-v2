@@ -8,7 +8,8 @@
         "padding": "9rem"
     },
     {
-        "minHeight": "450px",
+        "maxHeight": "52.5rem",
+        "minHeight": "28rem",
         "backgroundColor": "#032038",
         "padding": "8rem"
     },

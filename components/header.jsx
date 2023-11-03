@@ -45,7 +45,7 @@ export default function Header() {
                 Certificados
             </HeaderComponents>
             <HeaderComponents 
-                href="https://drive.google.com/file/d/1BEwtUcCSzNoloU237fkN0kk78WxIQY-4/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1DWy35vNTxF5Z84zV1mAii6gRQx5KDdfE/view?usp=sharing"
             >
                 Currículo
             </HeaderComponents>
@@ -74,7 +74,7 @@ export default function Header() {
                         <LiaCertificateSolid />
                     </HeaderComponents>
                     <HeaderComponents 
-                        href="https://drive.google.com/file/d/1BEwtUcCSzNoloU237fkN0kk78WxIQY-4/view?usp=drive_link" 
+                        href="https://drive.google.com/file/d/1DWy35vNTxF5Z84zV1mAii6gRQx5KDdfE/view?usp=sharing" 
                         style={{ display: view }}
                     >
                         <IoMdPaper />
